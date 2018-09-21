@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/ChimaTech/course-es6.svg?branch=master)](https://travis-ci.com/ChimaTech/course-es6)
 # ES6
 
 ## Table of Contents
